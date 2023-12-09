@@ -1,0 +1,9 @@
+{
+  "name": "undertown_v3",
+  "version": "1.0.0",
+  "description": "building the admin using node",
+  "main": "index.js",
+  "author": "RJ",
+  "license": "MIT",
+  "private": true
+}
